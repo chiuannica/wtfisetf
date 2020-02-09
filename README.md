@@ -1,6 +1,6 @@
-# banannica vue
+# WTF is ETF
 
-> A nice vue project
+> What are ETFs?
 
 ## Build Setup
 
